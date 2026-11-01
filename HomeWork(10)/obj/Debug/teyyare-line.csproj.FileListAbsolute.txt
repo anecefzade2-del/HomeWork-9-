@@ -1,0 +1,10 @@
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\bin\Debug\teyyare-line.exe.config
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\bin\Debug\teyyare-line.exe
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\bin\Debug\teyyare-line.pdb
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare-line.csprojAssemblyReference.cache
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare_line.Form1.resources
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare_line.Properties.Resources.resources
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare-line.csproj.GenerateResource.cache
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare-line.csproj.CoreCompileInputs.cache
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare-line.exe
+c:\users\xalid\source\repos\teyyare-line\teyyare-line\obj\Debug\teyyare-line.pdb
