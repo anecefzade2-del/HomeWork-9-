@@ -1,0 +1,10 @@
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat-bomb.csprojAssemblyReference.cache
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat_bomb.Form1.resources
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat_bomb.Properties.Resources.resources
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat-bomb.csproj.GenerateResource.cache
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat-bomb.csproj.CoreCompileInputs.cache
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\bin\Debug\Cat-bomb.exe.config
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\bin\Debug\Cat-bomb.exe
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\bin\Debug\Cat-bomb.pdb
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat-bomb.exe
+c:\users\xalid\source\repos\Cat-bomb\Cat-bomb\obj\Debug\Cat-bomb.pdb
